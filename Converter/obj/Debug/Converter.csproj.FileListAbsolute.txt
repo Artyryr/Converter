@@ -1,0 +1,10 @@
+C:\Users\Артур Фундукян\Desktop\Projects\Converter\Converter\bin\Debug\Converter.exe.config
+C:\Users\Артур Фундукян\Desktop\Projects\Converter\Converter\bin\Debug\Converter.exe
+C:\Users\Артур Фундукян\Desktop\Projects\Converter\Converter\bin\Debug\Converter.pdb
+C:\Users\Артур Фундукян\Desktop\Projects\Converter\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+C:\Users\Артур Фундукян\Desktop\Projects\Converter\Converter\obj\Debug\Converter.Properties.Resources.resources
+C:\Users\Артур Фундукян\Desktop\Projects\Converter\Converter\obj\Debug\Converter.csproj.GenerateResource.Cache
+C:\Users\Артур Фундукян\Desktop\Projects\Converter\Converter\obj\Debug\Converter.exe
+C:\Users\Артур Фундукян\Desktop\Projects\Converter\Converter\obj\Debug\Converter.pdb
+C:\Users\Артур Фундукян\Desktop\Projects\Converter\Converter\obj\Debug\Converter.Calculator.resources
+C:\Users\Артур Фундукян\Desktop\Projects\Converter\Converter\obj\Debug\Converter.Converter.resources
